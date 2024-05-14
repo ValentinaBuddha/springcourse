@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="128edeaf-43bd-4401-8e67-5a6ed858e065" name="Changes" comment="lesson 8 Bean Lifecycle">
+    <list default="true" id="128edeaf-43bd-4401-8e67-5a6ed858e065" name="Changes" comment="lesson 9 annotation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715313559627</updated>
       <workItem from="1715313561298" duration="7684000" />
-      <workItem from="1715491212087" duration="6029000" />
+      <workItem from="1715491212087" duration="7479000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 6">
       <created>1715603933544</created>
@@ -112,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715687285230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson 9 annotation">
+      <created>1715688247009</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715688247009</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +139,8 @@
     <MESSAGE value="lesson 6" />
     <MESSAGE value="lesson 7 scopes" />
     <MESSAGE value="lesson 8 Bean Lifecycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 8 Bean Lifecycle" />
+    <MESSAGE value="lesson 8 annotation" />
+    <MESSAGE value="lesson 9 annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 9 annotation" />
   </component>
 </project>
