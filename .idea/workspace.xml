@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="128edeaf-43bd-4401-8e67-5a6ed858e065" name="Changes" comment="lesson 10 annotation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/Computer.java" afterDir="false" />
+    <list default="true" id="128edeaf-43bd-4401-8e67-5a6ed858e065" name="Changes" comment="lesson 11 annotation">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/genres/JazzMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/genres/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/RapMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/genres/RapMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/genres/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/valentina/springcourse/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +73,7 @@
       <module name="spring-app1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.valentina.springcourse.*" />
+          <option name="PATTERN" value="ru.valentina.springcourse.genres.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715313559627</updated>
       <workItem from="1715313561298" duration="7684000" />
-      <workItem from="1715491212087" duration="10889000" />
+      <workItem from="1715491212087" duration="12527000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 6">
       <created>1715603933544</created>
@@ -129,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715691389666</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson 11 annotation">
+      <created>1715694199824</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715694199824</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 11 annotation">
+      <created>1715694213466</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715694213467</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +172,7 @@
     <MESSAGE value="lesson 8 annotation" />
     <MESSAGE value="lesson 9 annotation" />
     <MESSAGE value="lesson 10 annotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 10 annotation" />
+    <MESSAGE value="lesson 11 annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 11 annotation" />
   </component>
 </project>

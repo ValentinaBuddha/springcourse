@@ -1,7 +1,8 @@
-package ru.valentina.springcourse;
+package ru.valentina.springcourse.genres;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
+import ru.valentina.springcourse.Music;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
@@ -9,7 +10,7 @@ import javax.annotation.PreDestroy;
 @Component
 @Scope("prototype")
 public class ClassicalMusic implements Music {
-    @PostConsruct
+    @PostConstruct
     public void doMyInit() {
         System.out.println("Doing my initialization");
     }

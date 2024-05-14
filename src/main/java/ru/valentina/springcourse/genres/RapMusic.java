@@ -1,4 +1,6 @@
-package ru.valentina.springcourse;
+package ru.valentina.springcourse.genres;
+
+import ru.valentina.springcourse.Music;
 
 public class RapMusic implements Music {
     @Override
